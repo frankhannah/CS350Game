@@ -1,0 +1,115 @@
+Hannah's Journal
+
+-Sunday February 24th (10am-noon)
+Met as a group to write stories for Genetic Programming. Wrote 3 stories in pivotal tracker and discussed project.
+
+-Tuesday February 25th (7pm-7:30pm)
+Discussed as a group new project ideas becuase we couldn't figure out any stories for Genetic Programming.
+Game?
+Solitaire?
+
+-Thursday February 27th (1-2:15pm)
+Decided on Solitaire as a group. Wrote a few stories. Began Test Driven Development and practiced pair programming. Wrote in C++, used assert, and wrote tests.
+
+-Sunday March 2nd (11am-Noon)
+Edited stories and created tasks. Practiced some pair programming.
+
+-Wednesday March 5th (7pm-8:20pm)
+Began journal as a group. Worked on pair programming for Solitaire. Changed Deck to a vector of cards and then changed back to an array of cards when creating add function.
+
+-Thursday March 6th (9:30-10:15am)
+I met with Dr. Ribler. Discussed switching the program from C++ to C#. Began writing in C#. A few stories were discussed and written to get group started on Solitaire.
+
+-Thursday March 6th (11:30-12am)
+Together our group reviewed an article on the differences between C++ and C# and discussed the new stories, breaking a few into tasks. Quickly assigned some stories points.
+
+-Thursday March 6th (7:30-9:30pm)
+We worked on trying to get our code onto git. We could not figure out how. Downloaded updates to Visual Studios to try and help. Didn't help. Tried to simulate what we did in class but without success.
+
+-Friday March 7th (10am-10:50am)
+I met with Dr. Ribler. Discussed stories and story points.
+
+-Monday March 10th (2pm - 5pm)
+Put journals on computer, loaded onto Git.
+Loaded project onto Git.
+Created more stories in pivotal tracker.
+Updated story points, current stories we're working on, and velocity in pivotal tracker.
+Utilized pair programming on our Solitaire project. Looked over Card Class, began Deck Class.
+Used tests and asserts in C#.
+
+-Thursday March 13th (2-4pm)
+Read about C# in "C# and the .Net Platform" by Andrew Troelsen, Chapter 3 & some Chapter 4
+
+-Monday March 17th (4:30-5:30pm)
+Read Troelsen, Chapter 4
+
+-Wednesday March 19th (8-9:30pm)
+Pair programming: Worked on Deck Class. Trying to make progress toward shuffle function. 
+
+-Thursday March 20th(2:15-3:15)
+Pair programming: Worked on filling in a deck with 52 cards. Dr. Ribler helped us figure out casting.
+
+(7:30-8:45)
+Pair programming: Worked on seeing if a deck is actually filled with all 52 cards.
+Tried to understand why we couldn't print in C#.
+
+-Sunday March 23rd (3-4pm)
+Worked more on printing the deck and a single card but unsuccessful.
+
+-Wednesday March 26th (8:15-9:45pm)
+Researched more and was able to print our code with hearts, spades, clubs, and diamonds using a console app program.
+Worked on the shuffle function. Decided to write a swap function to swap two cards (needed for shuffle function). 
+Had problems with [] operator for Deck. May need to write.
+
+-Thursday March 27th (7:20-8:20pm)
+Worked with Molly on shuffle and swap functions. Mostly, tried to figure out the operator[] in our Deck class.
+Molly got an idea from the C# textbook. I am unsure if it is going to make the code too difficult, but
+it may be the perfect solution so we are going to try and implement it!
+
+-Monday March 31st (7-8) & (9-11:30)
+Tried putting the cards into a list instead of an array. Tried writing the operator[]. 
+Tried lots of different ways that didn't work.
+
+-Wednesday April 2nd (5-6:30pm)
+Wrote the bracket operator for Deck. Fixed the shuffle function accordingly.
+
+-Thursday April 3rd (10-11am)
+Realized that a deck of cards isn't filling in correctly still. 
+
+(1:30pm-2:30pm)
+Dr. Ribler, Molly, and I created the new project for the UI for Solitaire.
+Also, figured out that shuffle isn't working properly. Fixed swap function.
+Molly and I broke down some UI stories into multiple stories in pivotal tracker.
+
+-Sunday April 6th (12:45pm-3pm)
+Molly and I made the background of Solitaire green. Created an instance of a card. 
+Intellisense stopped working randomly and it was difficult to continue coding.
+I am beginning to understand the UI coding.
+
+-Tuesday April 8th (1-2:15pm)
+Molly and I wrote tests for the tock pile and each foundation pile and then created these in the UI.
+
+-Thursday April 10th (3:30-5)
+Molly and I worked on displaying the stock pile and foundation piles today. Began a "design talk" like the one
+that Dr.Ribler showed us in class today.
+
+-Wednesday April 16th (9:30pm-11:15pm)
+Wrote 2 tests and functions for deck. top() which will return what is on the top of the deck.
+And pop() which will remove what is on top of the deck. May need to change. Trying to prepare to write
+the deal function which will involve removing the cards from the deck and placing them in the tableau.
+Also, tried to brainstorm ideas involving the future interface for our project.
+
+-Thursday April 17th (1:50-2:15pm)
+Created a Model-View Controller Design Spec. with Molly and showed it to Dr. Ribler.
+He approved and we typed it up and put it into github.
+
+-Monday April 21st (11-11:30pm)
+Looked through dots and boxes code to try and understand more how interfaces would benefit
+our Solitaire Game. Sketched out (more in detail than last Thursday) ideas of interfaces for Solitaire
+and the functions that would be in each.
+
+-Tuesday April 22nd (10am-12:15pm)
+Worked on implementing some interfaces but didn't know a few things that the interface should inherit from.
+(IComparable? Stuff like that.) Worked again on the shuffle function for Deck.
+Decided to add tableauPiles class and began testing and creating the tableauPiles.
+
