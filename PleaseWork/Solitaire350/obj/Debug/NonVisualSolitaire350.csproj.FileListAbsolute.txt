@@ -1,0 +1,11 @@
+C:\Users\frank_m\Desktop\SistersFrank-master\SistersFrank-master\Solitaire\SistersFrank-master\Solitaire350\Solitaire350\obj\Debug\NonVisualSolitaire350.csprojResolveAssemblyReference.cache
+C:\Users\frank_m\Desktop\SistersFrank-master\SistersFrank-master\Solitaire\SistersFrank-master\Solitaire350\Solitaire350\obj\Debug\Solitaire350.Form1.resources
+C:\Users\frank_m\Desktop\SistersFrank-master\SistersFrank-master\Solitaire\SistersFrank-master\Solitaire350\Solitaire350\obj\Debug\NonVisualSolitaire350.Properties.Resources.resources
+C:\Users\frank_m\Desktop\SistersFrank-master\SistersFrank-master\Solitaire\SistersFrank-master\Solitaire350\Solitaire350\obj\Debug\NonVisualSolitaire350.csproj.GenerateResource.Cache
+C:\Users\frank_m\Desktop\SistersFrank-master\SistersFrank-master\Solitaire\SistersFrank-master\Solitaire350\Solitaire350\bin\Debug\NonVisualSolitaire350.exe.config
+C:\Users\frank_m\Desktop\SistersFrank-master\SistersFrank-master\Solitaire\SistersFrank-master\Solitaire350\Solitaire350\bin\Debug\NonVisualSolitaire350.exe
+C:\Users\frank_m\Desktop\SistersFrank-master\SistersFrank-master\Solitaire\SistersFrank-master\Solitaire350\Solitaire350\bin\Debug\NonVisualSolitaire350.pdb
+C:\Users\frank_m\Desktop\SistersFrank-master\SistersFrank-master\Solitaire\SistersFrank-master\Solitaire350\Solitaire350\bin\Debug\nunit.framework.dll
+C:\Users\frank_m\Desktop\SistersFrank-master\SistersFrank-master\Solitaire\SistersFrank-master\Solitaire350\Solitaire350\bin\Debug\nunit.framework.xml
+C:\Users\frank_m\Desktop\SistersFrank-master\SistersFrank-master\Solitaire\SistersFrank-master\Solitaire350\Solitaire350\obj\Debug\NonVisualSolitaire350.exe
+C:\Users\frank_m\Desktop\SistersFrank-master\SistersFrank-master\Solitaire\SistersFrank-master\Solitaire350\Solitaire350\obj\Debug\NonVisualSolitaire350.pdb
