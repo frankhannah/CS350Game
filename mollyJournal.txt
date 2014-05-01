@@ -1,0 +1,214 @@
+Sunday 2/24/14 10AM-12PM
+
+We met with our group today and wrote stories for Genetic Programming.
+We wrote three stories in pivotal tracker and tried to discuss the project.
+
+Tuesday 2/25/14 7-7:30PM
+
+We met as a group to discuss new project ideas because none of us can
+grasp the idea of Genetic Programming. This will be our third project
+change.
+
+Wednesday 2/26/14
+
+Talked to Dr.Ribler about the group's discussion to change topics again.
+Was told to pick a new project and focus on pair programming and test-
+driven development.
+
+Thursday 2/27/14 1-2:15PM
+
+We decided as a group to start creating a Solitaire game as a new project.
+We wrote a few stories in pivotal tracker, and the three of us began
+writing some tests together.
+
+Sunday 3/2/14 11AM-12PM
+
+We met as a group to edit some of our stories we'd created in class, and
+to break some down as tasks. We did a bit more pair programming and creating
+of tests.
+
+Wednesday 3/5/14 7PM-8:20
+
+We officially began our journal. Programmed as a pair for solitaire. We did
+not get far because we created vectors in our program and then decided to
+change everything to a more convenient array in our add function.
+
+Thursday 3/6/14 11:30AM-12PM
+
+We've been asked to change our project from being written in C++ to C#. Hannah
+gave me an article explaining the differences between the two languages, so
+we reviewed the article, discussed the new stories she'd made with Dr.Ribler
+this morning, and broke some into tasks.
+
+Thursday 3/6/14 7:30-9:30
+
+We worked on trying to get our Visual Studios files onto git. We're having a very difficult
+time figuring out how to use github and git. We tried downloading new updates to
+Visual Studios, practiced using the Powershell, tried "cloning" our repository
+to our desktop, etc.
+
+Monday 3/10/14 2-5PM
+
+Spent a few minutes recording our previously hand-written journal onto a file we can
+put into git. Then we spent some time trying to get our journals on github. We updated
+and created story points on pivotal tracker, and decided what our task was to work
+on today. Worked on the Deck class together using test-driven development.
+
+Wednesday 3/12/14 1-2:30PM
+
+Researched some differences between C# and C++ online, because I'm having difficulty 
+with the difference.
+
+Tuesday 3/18/14 5-7PM
+
+Continued to read up on C#. Coding is going very slowly because of the lack of knowledge
+of C#. Cannot figure out how to add things to an array correctly. 
+
+Wednesday 3/19/14 8-9:30PM
+
+Spent a good half hour trying to figure out how to open any of our code that we had saved
+on git. Tried to do some more testing and pair programming tonight once we got to our code.
+Finding the differences between C# and C++ to be confusing. A lot of failed tests run, but
+not a lot of good tests accomplished.
+
+Thursday 3/20/14 2:15PM-3:15PM
+
+Spent time after class trying to put all the individual 52 cards into a deck. Movement
+was very slow. Dr.Ribler gave us some pointers on how to cast so we could use the enumerators.
+
+same day 7:30PM-8:45PM
+
+Tried to test the newly created deck, and tried to test our print function. Our print function
+is also a test to see if all the cards are filling into the deck properly. Next step is 
+creating the shuffle function so we can print the deck out and see the difference after it
+has been shuffled. 
+
+Friday 3/21/14 5PM-6:30PM
+
+Spent some time reading more in the C# book. Contemplated changing the data structures we're
+using for our program. Also, we learned about interfaces the other day, and so tried to
+think out how we could add something like that into our program. Not sure if it's appropriate.
+
+Sunday 3/23/14 3PM-4PM
+
+Worked some more on trying to print out the Deck once the Cards have been loaded into it. Still
+not getting anywhere.
+
+Wednesday 3/26/14 3:30-5PM
+
+Spent time working on the Deck class with an ArrayList, tried using IEnumerator, tried
+to print out the Deck class. The Deck doesn't seem to be storing Cards no matter what I do.
+
+Thursday 3/27/14 7:20-820PM
+
+Turns out that the deck is storing cards. Hannah had it printing out earlier on a different 
+machine. Who knows why it wasn't working for me yesterday. We worked on a swap function
+to try to do the shuffle function again, but just like the other day it says we cannot reach
+what is in our array. I found on pg.292 in the C# book how to write the IEnumerator class, 
+which I believe is an interface, and it looks like that is exactly what I was trying to
+write the other day. I'll continue writing that in the morning.
+
+Friday 3/28/14 10:30 - 11:20
+
+Tried to write the IEnumerator using the IEnumerable interface, but it still will not allow me 
+to call a certain index of our array so writing the thing may have been pointless. I've read
+as much as I can find about arrays of objects in this book and on the internet. I'm not sure
+where to go for this information.
+
+
+Monday 3/31/14 6-8PM
+
+Tried putting the cards into a list tonight to see if we could get to them by index. When that
+didn't work I tried changing the enums to be strings, since it continues to say that we cannot
+reach the Cards because they are not strings. That didn't work. We're planning on asking for
+help pretty soon because we haven't gotten anywhere yet.
+
+Tuesday 4/1/14 2:10-2:15PM
+
+Ribler showed us what our problem was with declaring the array of cards too many times! We are
+saved. 
+
+Wednesday 4/2/14 5:30-6:30
+
+Saved the fix that Ribler showed us yesterday. Wrote the overriding bracket operator for the
+Deck class. Fixed the shuffle function that had already been written so that it compiled, and 
+during that figured out how to use the random number generator in C#. That should come in handy.
+
+Thursday 4/3/14 10-11AM
+
+Added a testing function for printing out a full deck, rather than just a card. Tried to run 
+the program and even though the tests were passing the program was breaking. It seems that the
+deck of cards is still not filling correctly and when it tries to put the first card in, the deck
+is pointing at null and it breaks. 
+
+same day 11AM
+
+Met with Dr. Ribler, and he wants us to break up the story about creating the visual stuff into
+multiple stories. He also thinks we should create visual cards and decks as we write the code for
+them. We plan on meeting later tonight to start this.
+
+same day 1:30-2:30PM
+
+Dr. Ribler showed Hannah and I how to work a little bit with the UI for Solitaire. We also realized
+that our shuffle function might be replacing cards we don't want it to, so we need to put the
+swap function back in. We also wrote a couple stories that he had asked us to, but we need to 
+finish changing some tasks into their own stories.
+
+Sunday 4/6/14 12:45-3PM
+
+Today we worked on the playing board and the card instance visuals. We made tests for and implemented
+these visual objects, but then IntelliSense stopped working and we were having difficulty coding
+because we couldn't figure out which methods we could use. We also updated everything on gitHub,
+and created new directories for our visual code and our non-visual code. 
+
+Tuesday 4/8/14 1-2:15PM
+
+Worked on testing the stock pile, created tests for the foundation place holders, and then created the
+foundation place holders. 
+
+
+Thursday 4/10/14 3:30-4:45
+
+Worked on displaying the stock pile and foundation piles today. We started a "design talk" like the one
+that Dr.Ribler showed us in class today. We will probably need to wait until the next lecture before
+we fully understand what the "controller" does. 
+
+Wednesday 4/16/14 9:30-11:15PM
+
+Wrote a few tests and functions for deck, but they may need some work. We need them in order to work
+with the cards going from the deck to the tableau. Still working on an idea for the "interface" for 
+the whole project.
+
+Thursday 4/17/14 1:50-2:15
+
+We drew up a model-view controller diagram and had it approved by Dr.Ribler. We then put it on the computer 
+to submit it here on github with the rest of our work so we can keep track of it.
+
+Tuesday April 22nd 10AM-12:15PM
+
+Implemented a few interfaces that we may need to test the deal function. Worked on shuffle for the deck. 
+Added tableau piles class and began testing and creating the tableau piles.
+
+same day 7-8:45PM
+
+Tried to create a SolitaireModel class and ISolitaireModel interface so we could test the dealing of the
+cards with the interface. We also tried to combine the non-visual code with the visual code. We're running
+into a few hiccups, but we'll continue trying tomorrow.
+
+Thursday April 24th 1-2:15PM
+
+We decided to refactor the name of our namespaces today, and a few of the class and interface names. We had some
+trouble at some points because we thought we lost the designer, but Ribler helped us find it, and then
+we got everything back on track. He set us up with a new pivotal tracker, but we couldn't get all the
+stories to import, but most are there, so we need to replace the ones we lost.
+
+Sunday April 27th 12-2PM
+
+Hannah created a new gitHub repository and we got all our stuff transferred for the most part. Spent some time
+to get everything over successfuly. Updated pivotal tracker with some of our stories that had been lost in the last
+move. Worked on the deal function.
+
+Monday April 28th 10PM-12AM
+
+We worked on the deal function. We wrote tests for the tableau piles that we could use for the deal function. We 
+wrote tests for deal function and then wrote the deal function unsuccessfully so far. We're still working on it. 
