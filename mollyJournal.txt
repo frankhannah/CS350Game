@@ -212,3 +212,8 @@ Monday April 28th 10PM-12AM
 
 We worked on the deal function. We wrote tests for the tableau piles that we could use for the deal function. We 
 wrote tests for deal function and then wrote the deal function unsuccessfully so far. We're still working on it. 
+
+Wednesday April 30th 12PM-2AM
+
+Kept working on the deal function, but it's still not working. Worked on a few more tests. Mostly just a 
+frustrating night.
